@@ -1,7 +1,22 @@
-# DDOS-V3
+#SYN FLOOD DDoS VERSION 3
 
-Version 3 of Rocotai DDOS attack
+DDoS attack versionn 3 (SYN FLOOD)
 
-This floods the server of a certain website or IP Adress.
+Set up for Termux
+```
+apt install git
+apt install python3
+git clone https://github.com/yuhertz/ddos-v3
+cd ddos-v3
+python3 SYN-Flood.py
+```
 
-This can only take down low security website and mid-security website but it is unable to take down higher security website. You can learn more at https://home.rocotai.repl.co
+Set up for Kali Linux
+```
+sudo apt install git
+sudo apt install python3
+git clone https://github.com/yuhertz/ddos-v3
+cd ddos-v3
+python3 SYN-Flood.py
+```
+
