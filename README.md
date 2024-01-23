@@ -2,9 +2,9 @@
 
 DDoS attack versionn 3 (SYN FLOOD)
 
-Version 3 of Rocotai DDOS attack using SYN Flood
+Version 3 of DDOS attack using SYN Flood
 
-This can only take down low security website and is unable to take down higher security website. You can learn more at https://home.rocotai.repl.co
+This can only take down low security website and is unable to take down higher security website.
 
 
 Set up for Termux
